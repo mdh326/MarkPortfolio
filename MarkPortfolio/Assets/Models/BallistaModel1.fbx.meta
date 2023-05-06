@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 465c1df9153f5c743ae8e9c85b09c01a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arrow1
+    100002: //RootNode
+    100004: Base
+    100006: Bow1
+    100008: Bow2
+    100010: Bow2Free
+    100012: Bow_Center
+    100014: Bow_Left0
+    100016: Bow_Left1
+    100018: Bow_Left2
+    100020: Bow_Right0
+    100022: Bow_Right1
+    100024: Bow_Right2
+    100026: BowFull_rigged
+    100028: BowFull_rigged_Rope1
+    100030: CatapultModel
+    100032: Frame
+    100034: Hammer
+    100036: HammerFrame
+    100038: HammerJoint
+    100040: Shield1
+    100042: Shield2
+    100044: Wheel1
+    100046: Wheel2
+    100048: Wheel3
+    100050: Wheel4
+    100052: Winch
+    400000: Arrow1
+    400002: //RootNode
+    400004: Base
+    400006: Bow1
+    400008: Bow2
+    400010: Bow2Free
+    400012: Bow_Center
+    400014: Bow_Left0
+    400016: Bow_Left1
+    400018: Bow_Left2
+    400020: Bow_Right0
+    400022: Bow_Right1
+    400024: Bow_Right2
+    400026: BowFull_rigged
+    400028: BowFull_rigged_Rope1
+    400030: CatapultModel
+    400032: Frame
+    400034: Hammer
+    400036: HammerFrame
+    400038: HammerJoint
+    400040: Shield1
+    400042: Shield2
+    400044: Wheel1
+    400046: Wheel2
+    400048: Wheel3
+    400050: Wheel4
+    400052: Winch
+    2100000: ColorTest
+    2300000: Arrow1
+    2300002: Base
+    2300004: Bow2Free
+    2300006: Frame
+    2300008: Hammer
+    2300010: HammerFrame
+    2300012: Shield1
+    2300014: Shield2
+    2300016: Wheel1
+    2300018: Wheel2
+    2300020: Wheel3
+    2300022: Wheel4
+    2300024: Winch
+    3300000: Arrow1
+    3300002: Base
+    3300004: Bow2Free
+    3300006: Frame
+    3300008: Hammer
+    3300010: HammerFrame
+    3300012: Shield1
+    3300014: Shield2
+    3300016: Wheel1
+    3300018: Wheel2
+    3300020: Wheel3
+    3300022: Wheel4
+    3300024: Winch
+    4300000: Base
+    4300002: Bow2
+    4300004: Bow1
+    4300006: BowFull_rigged_Rope1
+    4300008: Arrow1
+    4300010: Bow2Free
+    4300012: Hammer
+    4300014: Frame
+    4300016: HammerFrame
+    4300018: Shield1
+    4300020: Shield2
+    4300022: Wheel1
+    4300024: Wheel2
+    4300026: Wheel3
+    4300028: Wheel4
+    4300030: Winch
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Bow1
+    13700002: Bow2
+    13700004: BowFull_rigged_Rope1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
