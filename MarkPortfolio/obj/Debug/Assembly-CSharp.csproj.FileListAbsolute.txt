@@ -1,0 +1,2 @@
+D:\MarkPortfolio_Repo\MarkPortfolio\MarkPortfolio\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\MarkPortfolio_Repo\MarkPortfolio\MarkPortfolio\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

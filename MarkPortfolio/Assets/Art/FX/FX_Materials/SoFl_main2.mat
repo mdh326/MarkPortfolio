@@ -47,6 +47,14 @@ Material:
         m_Texture: {fileID: 2800000, guid: 952b5d4410ed99845b5f0deb0048d705, type: 3}
         m_Scale: {x: 1, y: 2}
         m_Offset: {x: 0, y: 0}
+    - _MainTex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MaskTex:
         m_Texture: {fileID: 2800000, guid: d7ce42b66e112e541bb6c88f698387a1, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -72,6 +80,9 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _Main2Str: 0
+    - _Main3Str: 0
+    - _MainStr: 1
     - _MaskApplySpeed: 0
     - _MaskFollowMain: 0
     - _MaskMatchMain: 0
@@ -87,6 +98,8 @@ Material:
     - _UseValAsAlp: 1
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 3.0943396, g: 1.657794, b: 0.2773228, a: 1}
+    - _Color: {r: 4.1311865, g: 2.4460914, b: 0.8184426, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _ScrollSpd: {r: 0, g: 1.5, b: 0, a: 0}
+    - _ScrollSpd2: {r: 0, g: 0, b: 0, a: 0}
+    - _ScrollSpd3: {r: 0, g: 0, b: 0, a: 0}
